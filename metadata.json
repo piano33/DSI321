@@ -1,0 +1,21 @@
+{
+    "name": "weather_rdk03",
+    "title": "weather_rdk03",
+    "notes": "ข้อมูลคุณภาพอากาศของประเทศไทย",
+    "data_type": "ข้อมูลสถิติ",
+    "owner_org": "tu", 
+    "data_source": "-",
+    "maintainer": "-",
+    "update_frequency_unit": "ปี",
+    "data_format": [
+      "CSV"
+    ],
+    "maintainer_email": "tu@sci.com",
+    "objective": [
+      "ยุทธศาสตร์ชาติ",
+      "แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ"
+    ],
+    "data_category": "ข้อมูลสาธารณะ",
+    "geo_coverage": "ประเทศ",
+    "license_id": "License not specified"
+}
